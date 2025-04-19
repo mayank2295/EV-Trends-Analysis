@@ -48,11 +48,12 @@ A violin plot was used to compare the distribution of rebate amounts for each ty
 
 ## Tools & Technologies
 
-- **Programming Language**: Python  
-- **Libraries**: Pandas, Seaborn, Matplotlib  
-- **Environment**: Jupyter Notebook  
-- **Visualization Techniques**: Heatmap, Bar Chart, KDE Plot, Violin Plot  
-- **File Format**: .csv  
+•⁠  ⁠*Programming Language*: Python  
+•⁠  ⁠*Libraries Used*: Pandas, Seaborn, Matplotlib  
+•⁠  ⁠*Development Environment*: Jupyter Notebook  
+•⁠  ⁠*Visualization Techniques*: Heatmap, Bar Chart, KDE Plot, Violin Plot  
+•⁠  ⁠*Dataset Format*: CSV (.csv)  
+•⁠  ⁠*Reproducibility*: Requirements file or environment YAML recommended for consistent setup
 
 ---
 
