@@ -1,5 +1,5 @@
 pandas
-matplotlib
+matplotlib  # For Visulization
 seaborn
 numpy
 jupyter
