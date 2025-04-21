@@ -1,5 +1,5 @@
-pandas
-matplotlib
+pandas # Importing the pandas library for data manipulation and analysis
+matplotlib # Importing matplotlib for data visualization (pyplot is commonly used)
 seaborn
-numpy
+numpy 
 jupyter
