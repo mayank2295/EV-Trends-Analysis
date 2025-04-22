@@ -52,7 +52,7 @@ A violin plot was used to compare the distribution of rebate amounts for each ty
 - **Libraries**: Pandas, Seaborn, Matplotlib  
 - **Environment**: Jupyter Notebook  
 - **Visualization Techniques**: Heatmap, Bar Chart, KDE Plot, Violin Plot  
-- **File Format**: .csv  
+- **File Format**: .csv  xlsm
 
 ---
 
@@ -71,7 +71,7 @@ This project demonstrates how electric vehicle rebate programs play a crucial ro
 
 ---
 
-## 📬 Contact & Feedback
+##  Contact & Feedback
 
 Feel free to connect or provide feedback:
 
@@ -80,7 +80,7 @@ Feel free to connect or provide feedback:
 
 ---
 
-## 📄 License
+##  License
 
 This project is intended for academic, educational, and research purposes only. The dataset used is owned and maintained by NYSERDA and is publicly available for analysis and transparency.
 
