@@ -71,7 +71,7 @@ This project demonstrates how electric vehicle rebate programs play a crucial ro
 
 ---
 
-## 📬 Contact & Feedback
+## Contact & Feedback
 
 Feel free to connect or provide feedback:
 
