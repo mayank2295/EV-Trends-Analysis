@@ -2,7 +2,7 @@
 
 This project is a comprehensive analysis of electric vehicle (EV) rebate trends based on the **NYSERDA Drive Clean Rebate Dataset** from 2017 to the present. This study, conducted as part of my **INT375 Project** during the B.Tech CSE program at **Lovely Professional University**, focuses on understanding how rebate programs influence EV adoption patterns, popular vehicle models, environmental impact, and regional uptake in New York State.
 
-## Project Overview
+##  Project Overview
 
 The primary goal of this project is to draw actionable insights from a real-world government dataset using **Python**, **Pandas**, **Seaborn**, and **Matplotlib**. These insights aim to support sustainable decision-making and policy development.
 
