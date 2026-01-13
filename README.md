@@ -51,7 +51,7 @@ A violin plot was used to compare the distribution of rebate amounts for each ty
 - **Programming Language**: Python  
 - **Libraries**: Pandas, Seaborn, Matplotlib  
 - **Environment**: Jupyter Notebook  
-- **Visualization Techniques**: Heatmap, Bar Chart, KDE Plot, Violin Plot  
+- **Visualization Techniques**: Heatmap, Bar Chart, KDE Plot, Violin Plot ,barh  ,pair plot
 - **File Format**: .csv  
 
 ---
