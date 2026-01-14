@@ -1,5 +1,5 @@
-pandas
-matplotlib
+pandas # for analysis 
+matplotlib # for visualization
 seaborn
 numpy
 jupyter
